@@ -1,0 +1,1 @@
+Codis creats i emprats en l'elaboració del projecte final del Màster Interuniversitari en Estadística i Investigació Operativa UPC-UB (MESIO), impartit a la facultatd e Matemàtiques i Estadística de la UPC.
