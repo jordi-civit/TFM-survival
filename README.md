@@ -1,4 +1,4 @@
-Codis creats i emprats en l'elaboració del projecte final del Màster Interuniversitari en Estadística i Investigació Operativa UPC-UB (MESIO), impartit a la facultatd e Matemàtiques i Estadística de la UPC. En aquest repositori trobem dos arxius d'R i dos directoris, els quals detallem a continuació.
+Codis creats i emprats en l'elaboració del projecte final del Màster Interuniversitari en Estadística i Investigació Operativa UPC-UB (MESIO). En aquest repositori trobem dos arxius d'R i dos directoris, els quals detallem a continuació.
 
 
   - L'arxiu mesures.R conté la funció mesures la qual donada un conjunt de dades retorna el resultat de les diferents mesures de rendiment estudiades (C-Index, AUC-ROC i IBS) pels diferents mètodes implementats, juntament amb el temps necessari per a la modelització, la predicció i el càlcul de les mesures de rendiment per cadascun d'aquests mètodes. 
